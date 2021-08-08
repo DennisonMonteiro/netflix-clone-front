@@ -10,3 +10,7 @@ Ao ter acesso a sua chave da API v3, você deve criar um arquivo chamado `.env.l
 ### `REACT_APP_API_BASE="https://api.themoviedb.org/3"`
 
 Ao criar tal arquivo, você estará apto a rodar a aplicação com o comando `yarn start` ou `npm start`.
+
+## Preview da página
+
+![preview image](preview.png)
